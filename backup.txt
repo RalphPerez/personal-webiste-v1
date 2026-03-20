@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Ralph Perez | IT Student</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header-tops">
+    <div class="container">
+
+      <h1><a href="index.html">Ralph Matthew Perez</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+      <h2 class ="mobile-text" style = "color: white"><span>🚧 Website Currently Under Maintenance</span><br><br> > We are doing some upgrades!</h2> 
+      <h2 style = "font-size:15px">Website will be back at 11:00 PM (PHsT) <br> Thank You For Understanding! </h2>
+
+ 
+      <nav class="nav-menu d-none d-lg-block">
+
+      </nav><!-- .nav-menu -->
+   
+      <div class="social-links">
+        <a href="https://www.facebook.com/manokieeee" target="_blank" class="bi bi-facebook" ><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/manok_ie/" target="_blank" class="bi bi-instagram"><i class="icofont-instagram"></i></a>
+        
+      </div>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= About Section ======= -->
+  <section id="about" class="about">
+
+    <!-- ======= About Me ======= -->
+    <div class="about-me container">
+
+      <div class="section-title">
+        <h2>About</h2>
+        <p>About Me</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4" data-aos="fade-right">
+          <img src="assets/img/me.png" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+          <h3>IT Student | Aspiring Bot Developer</h3>
+          <p class="font-italic">
+            Hello! I am Ralph Perez an aspiring Web Developer, Software Engineer and Bot Developer. I love and enjoy coding so much. This is not just about coding this is life.
+          </p>
+          
+          <div class="row">
+            <div class="col-lg-6">
+              <br>
+              <ul>
+                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +63 956-362-0569</li>
+                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Caloocan City, Metro Manila</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Discord Bots</li>
+              </ul>
+            </div>
+            <div class="col-lg-6">
+              <br>
+              <ul>
+                <li><i class="icofont-rounded-right"></i> <strong>College Level:</strong> 2nd year college</li>
+                <li><i class="icofont-rounded-right"></i> <strong>E-mail:</strong> ralphstudiosofficial@gmail.com</li>
+              </ul>
+            </div>
+          </div>
+          <p>
+            When I was a child, Pilot is my first dream. To fly and travel the whole world is my goal. But as time goes by I already knew we cannot afford my dream to become a Pilot. I was sad but need to accept the reality too. One day My parents bought me a computer. It is really slow and laggy. I don't know where it came from but I am attached to my computer so bad. I am very curious how it works, how it functions, how to install and download something. That is the first step why I love programming now.
+          </p>
+        </div>
+      </div>
+
+    </div><!-- End About Me -->
+
+
+    </div><!-- End Counts -->
+     <!-- ======= Interests ======= -->
+    <div class="interests container">
+
+      <div class="section-title">
+        <h2>Interests</h2>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-4">
+          <div class="icon-box">
+            <i class="ri-netflix-fill" style="color: #FF0000;"></i>
+            <h3>Watching Movies</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+            <i class="ri-wifi-fill" style="color: #93FF00;"></i>
+            <h3>Browsing Internet</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+          <div class="icon-box">
+            <i class="ri-steam-fill" style="color: #2C4CFF;"></i>
+            <h3>Online Games</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+          <div class="icon-box">
+            <i class="ri-spotify-fill" style="color: #00FF4D;"></i>
+            <h3>Listening to Music</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-camera-fill" style="color: #47aeff;"></i>
+            <h3>Photography</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-mic-fill" style="color: #FF3232;"></i>
+            <h3>Podcast</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-basketball-fill" style="color: #FFA200;"></i>
+            <h3>Basketball</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-vidicon-2-fill" style="color: #4233ff;"></i>
+            <h3>Videography</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-shopping-cart-2-fill" style="color: #FF8C32;"></i>
+            <h3>E-Commerce</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-cast-fill" style="color: #b20969;"></i>
+            <h3>Casting</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-discord-fill" style="color: #3575FF;"></i>
+            <h3>Discord</h3>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 mt-4">
+          <div class="icon-box">
+            <i class="ri-mental-health-fill" style="color: #29cc61;"></i>
+            <h3>Mental Health</h3>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- End Interests -->
+
+
+    <!-- ======= Skills  ======= -->
+    <div class="skills container">
+
+      <div class="section-title">
+        <h2>Skills</h2>
+      </div>
+
+      <div class="row skills-content">
+
+        <div class="col-lg-6">
+
+          <div class="progress">
+            <span class="skill">HTML <i class="val">70%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill">CSS <i class="val">70%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill">JavaScript <i class="val">60%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="20"></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-lg-6">
+
+          <div class="progress">
+            <span class="skill">Bot Development <i class="val">80%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill">Video Editing <i class="val">70%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+          <div class="progress">
+            <span class="skill">Graphic Design <i class="val">60%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div><!-- End Skills -->
+
+   
+    <!-- ======= Testimonials ======= -->
+    <div class="testimonials container">
+
+      <div class="section-title">
+        <h2>Testimonials</h2>
+      </div>
+
+      <div class="owl-carousel testimonials-carousel">
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Throughout the year Ralph was an active participant in our discussions, and he always supported his peers. His caring and funny nature and personality allow him to work well with others in a team setting, as he always respect others' opinions even when they differ from his own. He has high level of creativity and he always work hard to compensate for some things he lack of. He is more of a reliable and dependable leader than the rest. I taught him his basic C#
+            Programming which I believe this student of mine now is competent and I will bet my own name for him on that.
+
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <h3>Jhear Maluping</h3>
+          <h4>STI | Professor</h4>
+        </div>
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Ralph is one of the hard-working developers I've worked with. He gives his extra best whenever projects are assigned to him. From my experience working with this guy, I have witnessed his commitment to harnessing his skills in the field of technology. He is also eager and dedicated to learning from his colleagues like me. Overall, Ralph is one of the best because of his abilities that will make you well-pleased.
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+          <h3>Levin Molano</h3>
+          <h4>STI | Game Developer</h4>
+        </div>
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            When you need someone reliable you can always count on Ralph. Back in the days when we are in senior high school he always got your back. In group work our Teamwork is the best among the rest, from critical thinking, Planning, Coding and even on the spot marketing. Resilient is the best description for him
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-3.png" class="testimonial-img" alt="">
+          <h3>James Ivan Bernardino</h3>
+          <h4>STI | Web Developer</h4>
+        </div>
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            As a designer I am grateful to work with a wonderful web developer which is Ralph. He as a developer have this strict rules he abides to himself to produce the best out of his productivity. The dedication and passion for this website to run as smooth and flawless is beyond my expectation. Ralph showed me that enthusiasm is the key to keep things going and have energy to commit for your passion because without it working is just another day. The eagerness of him to learn, obtain knowledge beyond his work, and the curiousness are such a big asset not only just for him but for us in a team. Ralph is a very good addition in any team, he'll shine whichever team he partners up!
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+          <h3>Janelle Guerrero</h3>
+          <h4>STI | Web Designer</h4>
+        </div>
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Ralph is extremely creative and have self-expression. He is creative, unique and function admirably in a setting that takes into account self-expression. He is likewise thorough and coordinated, and like working in an organized climate.He is also passionate about his work and fun to be with.
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+          <h3>Reine Isturis</h3>
+          <h4>STI | Client</h4>
+        </div>
+        <!--  
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Ralph is passionate about his work. He always doing his best to have a great outcome on his works. Whenever there is a problem he always come up with a solution and he is very approachable too. It easy to communicate and all I can say is his works is clean and working pretty fine as always. 100/100 ratings and recommendations
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/testimonials-6.jpg" class="testimonial-img" alt="">
+          <h3>Regine Garcia</h3>
+          <h4>NU | Client</h4>
+        </div>
+      </div>
+
+    </div><!-- End Testimonials  -->
+
+  </section><!-- End About Section -->
+    <!-- ======= Resume Section ======= -->
+  <section id="resume" class="resume">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Education</h2>
+        <p>Educational Background</p>
+      </div>
+      
+      <div class="row">
+        <div class="col-lg-6">
+          <h3 class="resume-title">Academic Records</h3>
+          <div class="resume-item">
+            <h4>National University - Fairview</h4>
+            <h5>2020 - Present</h5>
+            <p><em>BSIT-MI</em></p>
+            <p>
+            <ul>
+              <li>Consistent Dean's Lister</li>
+              <li>President of Codability Tech Student Organization</li>
+            </ul>
+            </p>
+          </div>
+          <div class="resume-item">
+            <h4>STI College Novaliches</h4>
+            <h5>2018-2020</h5>
+            <p><em>ICT - Major in Mobile App and Web Development</em></p>
+            <p>
+            <ul>
+              <li>Graduated with honors</li>
+              <li>HTML, CSS, Javascript, C#, C++, Android App Development</li>
+              <li>Program Secretary (D-RAM)</li>
+            </ul>
+            </p>
+          </div>
+          <div class="resume-item">
+            <h4>St. Therese of Rose School</h4>
+            <h5>2014-2018</h5>
+            <p><em>Junior Highschool</em></p>
+            <p>
+            <ul>
+              <li>Delta Company 1st Lieutenant (C.A.T Officer) </li>
+              <li>Graduated with Honors</li>
+            </ul>
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <h3 class="resume-title">Experience/Internship</h3>
+          <div class="resume-item">
+            <h4>World Master International Travel, Fariview Terraces</h4>
+            <h5>January 2020</h5>
+            <p><em>Sales Clerk</em></p>
+            <li>Completed 80 hours of On the Job Training</li>
+            <li>Highest Grade in Internship</li>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-title mt-5">
+        <h2>Certificates</h2>
+        <p>My Certifications</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-6 col-md-2">
+                         <div class>
+          <a href="assets/img/certificates.pdf" target="_blank"><img src="assets/img/certificate1.png" height="400" width="500" ></a>
+          
+        </div>
+          
+        </div>
+        <div class="col-sm-6 col-md-2">
+
+        </div>
+        <div class="col-sm-6 col-md-2">
+          
+        </div>
+        <div class="col-sm-6 col-md-2">
+         
+        </div>
+        <div class="col-sm-6 col-md-2">
+         
+        </div>
+      </div>
+      <div class="row mt-4">
+        <div class="col-md-6">
+          <div class="resume-item">
+            <ul>
+              <li><strong>Microsoft Teams Essential Training</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+              <li><strong>Microsoft Teams Tips and Tricks (2018)</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+              <li><strong>Microsoft Teams Quick Tips</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+              <li><strong>Microsoft Essential Training (Office 365/Microsoft 365)</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+             </ul>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="resume-item">
+            <ul><li><strong>Word Tips and Tricks</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+              <li><strong>Excel Essential Training (Office 365/Microsoft 365)</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+                            <li><strong>Power Point Essential Training (Office 365/Microsoft 365)</strong></a> <br> <em>LinkedIn Learning, 2020</em></li>
+            </ul>
+          </div>
+        </div>
+        
+      </div>
+
+    </div>
+  </section><!-- End Resume Section -->
+
+ 
+  <!-- ======= Services Section ======= -->
+  <section id="services" class="services">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Services</h2>
+        <p>My Services</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bxl-dribbble"></i></div>
+            <h4><a href="">Lorem Ipsum</a></h4>
+            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-file"></i></div>
+            <h4><a href="">Sed ut perspiciatis</a></h4>
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-tachometer"></i></div>
+            <h4><a href="">Magni Dolores</a></h4>
+            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-world"></i></div>
+            <h4><a href="">Nemo Enim</a></h4>
+            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-slideshow"></i></div>
+            <h4><a href="">Dele cardo</a></h4>
+            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bx-arch"></i></div>
+            <h4><a href="">Divera don</a></h4>
+            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Services Section -->
+    <!-- ======= Portfolio Section ======= -->
+  <section id="portfolio" class="portfolio">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Portfolio</h2>
+        <p>My Works</p>
+      </div>
+
+
+
+            <img src="assets/img/portfolio/portfolio-9.webp" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <br><br><br><br>
+              <center><h4 style="color:red;">Portfolio Section Under Development!</h4>
+              <div class="portfolio-links">
+                      <br><br><br><br>
+
+
+
+
+    </div>
+  </section><!-- End Portfolio Section -->
+ 
+
+  <!-- ======= Contact Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+        <p>Contact Me</p>
+      </div>
+
+      <div class="row mt-2">
+
+        <div class="col-md-6 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-map"></i>
+            <h3>Address</h3>
+            <p>Caloocan City, Metro Manila PH</p>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-share-alt"></i>
+            <h3>Social Media</h3>
+            <div class="social-links">
+              <a href="https://www.facebook.com/manokieeee" class="facebook"><i class="icofont-facebook"></i></a>
+              <a href="https://www.instagram.com/manok_ie/" class="instagram"><i class="icofont-instagram"></i></a>
+   
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-envelope"></i>
+            <h3>Email</h3>
+            <p>ralphstudiosofficial@gmail.com</p>
+          </div>
+        </div>
+        <div class="col-md-6 mt-4 d-flex align-items-stretch">
+          <div class="info-box">
+            <i class="bx bx-phone-call"></i>
+            <h3>Phone Number</h3>
+            <p>+63 956-362-0569</p>
+          </div>
+        </div>
+      </div>
+
+      <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
+        <div class="form-row">
+          <div class="col-md-6 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+            <div class="validate"></div>
+          </div>
+          <div class="col-md-6 form-group">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+            <div class="validate"></div>
+          </div>
+        </div>
+        <div class="form-group">
+          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+          <div class="validate"></div>
+        </div>
+        <div class="form-group">
+          <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+          <div class="validate"></div>
+        </div>
+        <div class="mb-3">
+          <div class="loading">Loading</div>
+  
+          <div class="sent-message">Your message has been sent. Thank you!</div>
+        </div>
+        <br>
+        <div class="text-center"><button type="submit">Send Message</button></div>
+        <br><center><p style="color:red">This form is currently unavailable. Use the contact above if you have any concerns. </p></center>
+      </form>
+
+    </div>
+  </section><!-- End Contact Section -->
+
+  <div class="credits">
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
